@@ -1,6 +1,7 @@
 # STATISTIQUES
 
-Je suis partie sur la consigne de faire un tirage alétoire d'un test statistique
+Je suis partie sur la consigne de faire un tirage alétoire d'un test statistique.
+
 Je recupère le fichier et et je récupère le nom des colonnes.
 Je trie les colonnes en fonction de leur type
 J'ai fait un traitement particulier pour la colonne de temps
